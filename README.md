@@ -1,19 +1,40 @@
-Rosvi S and Poovitha V
-SNS College of Technology
+# 🚦 RoadSenseAI
 
-# React + Vite
+## Predict. Prevent. Protect.
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+RoadSenseAI is an AI-powered road safety and smart route recommendation system that recommends safer routes by analyzing road conditions, traffic, weather, and accident risks.
 
-Currently, two official plugins are available:
+## 👥 Team Members
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- Rosvi S (Team Leader)
+- Poovitha V
 
-## React Compiler
+## 🏫 Institution
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+SNS College of Technology  
+Coimbatore, Tamil Nadu
 
-## Expanding the Oxlint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+- React (Vite)
+- Tailwind CSS
+- Node.js
+- Express.js
+- MongoDB
+- JavaScript
+
+## ✨ Features
+
+- AI Route Recommendation
+- Safety Score Calculation
+- Incident Reporting
+- Image Upload
+- Route Risk Analysis
+
+## 🚀 Future Enhancements
+
+- YOLOv8 Road Damage Detection
+- Random Forest Risk Prediction
+- Weather API Integration
+- OpenRouteService Integration
+- Explainable AI (XAI)
